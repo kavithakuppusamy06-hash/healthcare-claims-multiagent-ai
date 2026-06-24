@@ -52,7 +52,7 @@ User Question → Supervisor Agent (LangGraph)
   ## 📸 Screenshots
 
 ### Coverage Agent
-![Coverage Agent](coverage_agent.png)
+![Coverage Agent](Screenshot 2026-06-24 173050.png)
 
 ### Architecture
 ![Architecture](architecture.png)
