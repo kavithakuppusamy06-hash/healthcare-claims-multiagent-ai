@@ -51,14 +51,16 @@ User Question → Supervisor Agent (LangGraph)
 
   ## 📸 Screenshots
 
-### Coverage Agent
-![Coverage Agent](Screenshot 2026-06-24 173050.png)
+## 📸 Screenshots
 
-### Architecture
-![Architecture](architecture.png)
+### Coverage Agent in Action
+![Coverage Agent](Screenshot%202026-06-24%20173050.png)
 
-### Final Test
-![Final Test](final_test.png)
+### LangGraph Architecture
+![Architecture](Screenshot%202026-06-24%20173258.png)
+
+### Final Test Results
+![Final Test](Screenshot%202026-06-24%20173453.png)
 
 ## 👩‍💻 Built By
 Kavitha K — Generative AI Engineer
