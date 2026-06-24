@@ -49,5 +49,16 @@ User Question → Supervisor Agent (LangGraph)
 - "What documents needed for hospitalization claim?"
 - "Is there co-payment for senior citizens?"
 
+  ## 📸 Screenshots
+
+### Coverage Agent
+![Coverage Agent](coverage_agent.png)
+
+### Architecture
+![Architecture](architecture.png)
+
+### Final Test
+![Final Test](final_test.png)
+
 ## 👩‍💻 Built By
 Kavitha K — Generative AI Engineer
